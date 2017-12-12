@@ -58,7 +58,7 @@
     "css-select-base-adapter": "~0.1.0",
     "css-tree": "1.0.0-alpha25",
     "csso": "^3.3.1",
-    "js-yaml": "~3.10.0",
+    "js-yaml": "^3.10.0",
     "object.values": "^1.0.4",
     "sax": "~1.2.4",
     "stable": "~0.1.6",
